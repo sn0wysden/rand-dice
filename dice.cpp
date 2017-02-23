@@ -3,6 +3,8 @@
 #include <stdlib.h>
 #include <time.h> 
 
+// Written by sn0w
+
 int main () {
 	
 	
